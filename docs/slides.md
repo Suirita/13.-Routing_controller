@@ -13,7 +13,7 @@
 
 ### **2-2TUP Methodology:**
 
-![2-2TUP](./assets/2TUP.png)
+![2-2TUP](./assets/2tup.png)
 
 ---
 
